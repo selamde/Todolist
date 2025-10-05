@@ -33,6 +33,6 @@ This project demonstrates full-stack development using Next.js App Router, Prism
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/todo-neon-nextjs.git
+git clone https://github.com/selamde/Todolist.git
 cd todo-neon-nextjs
 ```
