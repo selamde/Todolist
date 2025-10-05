@@ -1,6 +1,6 @@
 # Todo List App
 
-![Todo List Screenshot](./public/readme.png)
+![Todo List Screenshot](./readme.png)
 
 A simple and modern **Todo List** application built with **Next.js**, **Prisma**, and **Neon**.  
 This project demonstrates full-stack development using Next.js App Router, Prisma ORM, and a PostgreSQL database hosted on Neon.
